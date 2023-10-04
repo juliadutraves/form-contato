@@ -1,0 +1,68 @@
+ body {
+	font-family: Arial, sans-serif;
+	background: linear-gradient(to bottom, #2f6a85, #6e46df);
+	margin: 0;
+	padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+
+  }
+   form {
+	background-color: rgb(170, 178, 248);
+	max-width: 400px;
+	margin: 0 auto;
+	padding: 39px;
+	border-radius: 45px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+
+  }
+ h2 {
+    color: black;
+
+  }
+ input[type="email"],
+ input[type="text"],
+ textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+
+  }
+  input[type="email"]:focus,
+  input[type="text"]:focus,
+  textarea:focus {
+    border-color: hsl(211, 37%, 61%);
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+
+  }
+  .labelinput {
+	display: block;
+	margin-bottom: 5px;
+	color: black;
+	font-weight: bold;
+
+  }
+ button{
+	background-color: #346191;
+	color: white;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 3px;
+	cursor: pointer;
+	transition: background-color 0.3s ease;
+
+  }
+ button{
+	background-image: linear-gradient(to right, rgb(105, 153, 211), rgb(142, 92, 235));
+
+  }
+  span {
+    font-size: 14px;
+    color: white;
+  }
+  
