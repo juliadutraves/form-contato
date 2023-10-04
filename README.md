@@ -12,27 +12,28 @@
 * [Id](#id)
 * [Name](#name)
 * [Span](#post)
-* [Texsterea](#texsterea)
+* [Type](#Type)
+* [Texstarea](#texsterea)
 * [Button](#button)
 * [Content](#content)
 * [Text](#text)
 * [Sobre o projeto](#sobre-o-projeto)
 * [Ferramentas ultilizadas](#ferramentas-ultilizadas)
 
-# Formulário de contato 
+# 👻Formulário de contato 
     Nesse projeto, criamos um index sobre formulario de contato, na materia: 
     * Fundamentos de desenvolvimento web.  
 
-## Sobre o projeto 
-    Projeto criado de exemplo para termos uma noção de como criamos um espaço para congtato em sites. 
+## 🎃Sobre o projeto 
+    Projeto criado de exemplo para termos uma noção de como criamos um espaço para contato em sites. 
 
- ## Ferramentas ultilizadas 
+ ## 🩸Ferramentas ultilizadas 
     * Git Hub
     * CSS3
     * HTML5
     * Visual Studio Code
 
-## Foncionalidade
+## 🦇Foncionalidade
 
 ### [Form](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
     Representa uma seção do documento contendo controles interativos para envio de informações.
@@ -52,14 +53,14 @@
 ### [Label](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/label)
     Representa uma legenda para um item em uma interface de usuário. Ele pode estar associado com um elemento de controle, colocando este dentro do elemento.
 
-
 ### [For](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for)
     Cria um loop que consiste em três expressões opcionais, dentro de parênteses e separadas por ponto e vírgula, seguidas por uma declaração ou uma sequência de declarações executadas em sequência.
 
 ### [Input](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
     E usado para criar controles interativos para formulários baseados na web para aceitar dados do usuário
  
-### [Type]
+### [Type](https://www.w3schools.com/html/html_form_elements.asp)
+    o type é usado para especificar o tipo de conteúdo que essa tag link está importando, o valor do atributo deve ser um MIME type como "text/html", "text/css" e assim por diante.
 
 ### [H1](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
     Representam seis níveis de títulos de seção. é o nível de seção mais alto e é o mais baixo.
@@ -73,7 +74,7 @@
 ### [Span](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/span)
     Um conteiner generico em linha para conteúdo fraseado , que não representa nada por natureza. Ele pode ser usado para agrupar elementos para fins de estilo (usando os atributos class ou id ), ou para compartilhar valores de atributos como lang. Ele deve ser usado somente quando nenhum outro elemento semântico for apropriado. <span> é muito parecido com o elemento <div> , entretando <div> é um elemento de nível de bloco enquanto <span> é um elemento em linha.
 
-### [Texsterea](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea)
+### [Texstarea](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea)
     Representa um controle de edição de texto simples de múltiplas linhas, útil quando você deseja permitir que os usuários insiram uma quantidade considerável de texto de formato livre, por exemplo, um comentário em um formulário de revisão ou feedback.
 
 ### [Button](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
@@ -85,6 +86,6 @@
 ### [Text](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/textarea)
     Representa um controle de edição para uma caixa de texto, útil quando você quer permitir ao usuário informar um texto extenso em formato livre, como um comentário ou formulário de retorno.
 
-## Referências
+## 🫀Referências
 
 * [lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Um modelo para fazer um bom README
